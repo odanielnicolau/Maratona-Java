@@ -48,7 +48,15 @@ public class Main {
 
 
 // #9. ARGUMENTOS
+    //Exercícios:
+    // 1. Saudação Personalizada
+    // Objetivo: Criar um método que receba um nome e imprima:
+    // "Olá, [nome]! Bem-vindo ao Java!"
 
+    static void parametros(String[] nome){
+        nome= "Daniel"
+        System.out.println("Ola" +nome);
+    }
 
 
 
