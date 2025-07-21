@@ -39,9 +39,14 @@ public class Main {
     // "()" -> para definir oq chegará naquela função.
     //"{}" -> bloco de código que será executado.
 
+
+    //oq está dentro dos "()" na função, são chamados de parâmetreos. Ex: "static void soma(int x, int y)", "(int x, int y)"
+    //são os parâmetros da função.
     static void soma(int x, int y){
         System.out.println(x+y);
     }
+
+
 // #9. ARGUMENTOS
 
 
